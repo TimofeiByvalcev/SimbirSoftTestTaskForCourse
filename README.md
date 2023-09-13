@@ -1,8 +1,12 @@
 # SimbirSoftTestTaskForCourse
-demoqa-test-project
 
-## demoqa test project
+## Automation testing on demoqa.com page (Page Object Model)
 
-This project contains autotests for demoqa student registration form page
+## Technologies/Tools used:
 
-It uses Java, Selenium, Maven, Allure
+1. Java
+2. Maven
+3. Junit
+4. Selenium WebDriver
+5. IntelliJ
+6. Java Faker
