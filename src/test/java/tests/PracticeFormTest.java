@@ -7,7 +7,7 @@ import org.junit.Assert;
 import org.junit.Test;
 import pages.PracticeFormPage;
 import static helpers.FakeUserData.*;
-
+//test comment
 
 
 @DisplayName("Student registration form")
